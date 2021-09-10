@@ -57,7 +57,7 @@ public class Main extends Paciente{
 				System.out.println(Arrays.toString(listaPaciente));
 				
 				Arrays.sort(listaPaciente);
-				System.out.println("Estudiantes despues de ordenar");
+				System.out.println("Pacientes despues de ordenar");
 				System.out.println(Arrays.toString(listaPaciente));
 			}
 	
